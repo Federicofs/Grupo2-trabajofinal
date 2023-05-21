@@ -30,3 +30,5 @@ volumes:
 
   # Error response from daemon: create _jenkins-data: "_jenkins-data" includes invalid characters for a local volume name, 
   # only "[a-zA-Z0-9][a-zA-Z0-9_.-]" are allowed. If you intended to pass a host directory, use absolute path
+
+  #revisar error 
